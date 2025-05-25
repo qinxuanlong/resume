@@ -148,15 +148,15 @@ const unhoverAvatar = () => avatarHover.value = false;
 // 滚动动画初始化
 onMounted(() => {
   // 入场动画
-  const animateElements = document.querySelectorAll('[data-anim]');
-  animateElements.forEach((el:any) => {
+//   const animateElements = document.querySelectorAll('[data-anim]');
+//   animateElements.forEach((el:any) => {
  
-    el.style.opacity = '0';
-    setTimeout(() => {
-      el.style.opacity = '1';
-      el.classList.add('animated', el.dataset.anim!);
-    }, 100 * Array.from(animateElements).indexOf(el));
-  });
+//     el.style.opacity = '0';
+//     setTimeout(() => {
+//       el.style.opacity = '1';
+//       el.classList.add('animated', el.dataset.anim!);
+//     }, 100 * Array.from(animateElements).indexOf(el));
+//   });
 
   // 视差滚动
 //   window.addEventListener('scroll', () => {
