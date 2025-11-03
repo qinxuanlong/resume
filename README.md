@@ -6,7 +6,7 @@ Learn more about the recommended Project Setup and IDE Support in the [Vue Docs 
 
 
 # 秦玄龙 | Web前端开发工程师
- 159-5679-3981 |  1470681411@qq.com
+1470681411@qq.com
 📍 南京 | 求职状态：已离职 | 期望薪资：10K-11K
 🌐 GitHub/作品集（建议补充） | 技术博客（建议补充）
 
